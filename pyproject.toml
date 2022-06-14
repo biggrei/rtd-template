@@ -7,7 +7,7 @@ name = "lumache"
 authors = [{name = "Graziella", email = "graziella@lumache"}]
 dynamic = ["version", "description"]
 
-[project.optiona-dependencies]
+[project.optional-dependencies]
 doc = [
     "sphinx~=5.0.1"
 ]
