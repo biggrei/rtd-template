@@ -10,6 +10,8 @@ Welcome to Network Notes's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   example1
+   example2
 
 
 Indices and tables
